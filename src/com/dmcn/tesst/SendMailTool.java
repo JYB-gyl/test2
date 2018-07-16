@@ -16,7 +16,7 @@ public class SendMailTool {
 	private static String password = "bdqn597701"; // 邮箱授权码
 
 	private static String from = "17603214676@163.com"; // 使用当前账户
-	//发短信
+	//发短信fff
 	/**
 	 * 
 	 * @Title:<p>sendMail</p>
